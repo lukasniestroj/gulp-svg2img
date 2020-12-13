@@ -1,0 +1,17 @@
+{
+  "name": "gulp-svg2img",
+  "version": "1.0.0",
+  "description": "gulp wrapper for svg2img",
+  "main": "index.js",
+  "author": "Lukas Niestroj",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "svg2img": "^0.9.0",
+    "through2": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lukasniestroj/gulp-svg2img.git"
+  }
+}
